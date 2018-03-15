@@ -7,9 +7,10 @@ Version: 0.0.1.
 
 
 ```
-notify.show
-({
-	title: "Test",
-	body: "Hello world!"
-});
+const minificator = require("regexp-js-minificator");
+const fs = require('fs');
+
+var input = fs.readFileSync("your_javascript_normal_file.js");
+fs.readFileSync("your_javascript_minified_file.js", minificator (input));
+
 ```
