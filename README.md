@@ -5,6 +5,10 @@ File size: 1.5 kb without any dependies.
 
 Version: 0.0.1.
 
+installation: 
+```
+npm install regexp-js-minificator
+```
 
 ```
 const minificator = require("regexp-js-minificator");

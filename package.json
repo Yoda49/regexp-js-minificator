@@ -1,0 +1,26 @@
+{
+  "name": "regexp-js-minificator",
+  "version": "0.0.1",
+  "description": "Simple, fast & minimal java-script minificator.",
+  "main": "regexp-js-minificator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoda49/regexp-js-minificator.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "minificator",
+    "minify",
+    "mini"
+  ],
+  "author": "yoda49",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yoda49/regexp-js-minificator/issues"
+  },
+  "homepage": "https://github.com/Yoda49/regexp-js-minificator#readme"
+}
