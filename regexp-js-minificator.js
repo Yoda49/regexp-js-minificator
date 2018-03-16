@@ -1,5 +1,5 @@
 // Simple, fast, minimal java-script minificator
-// Version: 0.0.1
+// Version: 0.0.2
 // Author: Yoda49
 
 function jsm (text)

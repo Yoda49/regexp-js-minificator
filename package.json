@@ -1,6 +1,6 @@
 {
   "name": "regexp-js-minificator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple, fast & minimal java-script minificator.",
   "main": "regexp-js-minificator.js",
   "scripts": {
@@ -11,6 +11,8 @@
     "url": "git+https://github.com/Yoda49/regexp-js-minificator.git"
   },
   "keywords": [
+	"regexp",
+	"regular expression",
     "js",
     "javascript",
     "minificator",
